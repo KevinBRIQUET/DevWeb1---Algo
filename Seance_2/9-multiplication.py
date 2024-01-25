@@ -1,0 +1,20 @@
+#Affichez une table de multiplication (jusqu’à 10) dont l’ordre (le nombre concerné) sera saisi au  clavier. 
+print("---> Affichez table de multiplication <---")
+print()
+table = int(input("Ecrire le nombre :"))
+print(f"{table} * 0 = {table * 0}")
+print(f"{table} * 1 = {table * 1}")
+print(f"{table} * 2 = {table * 2}")
+print(f"{table} * 3 = {table * 3}")
+print(f"{table} * 4 = {table * 4}")
+print(f"{table} * 5 = {table * 5}")
+print(f"{table} * 6 = {table * 6}")
+print(f"{table} * 7 = {table * 7}")
+print(f"{table} * 8 = {table * 8}")
+print(f"{table} * 9 = {table * 9}")
+print(f"{table} * 10 = {table * 10}")
+
+
+
+
+
